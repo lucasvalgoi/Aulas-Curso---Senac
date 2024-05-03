@@ -23,6 +23,6 @@
    - Nele, foi preciso pôr em prática o que foi ensinado em aula sobre __*Funções*__, __*Arrays*__ e __*Obejtos*__.
 
 - ### No Segundo trabalho | [Trabalho 2.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15183150/Trabalho.2.pdf)
-   - Neste trabalho, foi criado um projeto semelhante ao primeiro, um "gerenciador" de estoque de livros, mas, com _Interatividade_ atráves do termina com o `prompt-sync`;
+   - Neste trabalho, foi criado um projeto semelhante ao primeiro, um "gerenciador" de estoque de livros, mas, com _Interatividade_ atráves do terminal com o `prompt-sync`;
    - E, ao invés de termos que salvar os dados na memória, foi utilizado a biblioteca `fs` nativa do NodeJS para alterarmos um arquivo JSON onde armazenamos os nossos livros;
    - Foi usado funcionalidades básicas do __CRUD__ com duas "entidades", que eram os *livros* e *categorias*.
