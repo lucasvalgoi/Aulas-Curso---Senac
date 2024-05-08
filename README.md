@@ -6,15 +6,16 @@
 
 # :pencil: Conteúdos aprendidos:
 - Ao longo das semanas em que ocorreram o curso, os conteúdos ensinados foram sobre fundamentos da lógica de programação usando exemplos, exercícios e trabalhos práticos. Dentre os conteúdos, estão:
-   - Introdução à programação | ;
-   - Características da linguagem __JavaScript__ | ;
-   - Funções | ;
-   - Arrays | ;
-   - Objetos | ;
-   - Classes | ;
-   - Funções Assícronas | ;
-   - NPM | ;
-   - Git&GitHub | [10. Git.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15183139/10.Git.pdf).
+   - Introdução à programação | (add um novo arquivo neste repositório para mostrar o caminho desta aula);
+   - Características da linguagem __JavaScript__ | [2. Características do JavaScript.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252908/2.Caracteristicas.do.JavaScript.pdf);
+   - Funções | [3. Funções.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252911/3.Funcoes.pdf);
+   - Arrays | [4. Arrays.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252920/4.Arrays.pdf);
+   - Objetos | [5. Objects.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252946/5.Objects.pdf);
+   - Classes | [6. Classes.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252953/6.Classes.pdf);
+   - Funções Assícronas | [7. Funções Assíncronas.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252991/7.Funcoes.Assincronas.pdf);
+   - Revisão | [8. Revisão.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15253000/8.Revisao.pdf);
+   - NPM | [9. NPM.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252994/9.NPM.pdf);
+   - Git&GitHub | [10. Git.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15183139/10.Git.pdf);
  
 # 👨‍💻 Trabalhos práticos:
 - Como forma de avaliação, foi aplicado aos alunos do curso, 2 trabalhos práticos, onde era apresentado um contexto, com vários problemas que precisavam ser solucionados.
