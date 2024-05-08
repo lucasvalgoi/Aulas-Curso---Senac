@@ -6,7 +6,7 @@
 
 # :pencil: Conteúdos aprendidos:
 - Ao longo das semanas em que ocorreram o curso, os conteúdos ensinados foram sobre fundamentos da lógica de programação usando exemplos, exercícios e trabalhos práticos. Dentre os conteúdos, estão:
-   - Introdução à programação | [1. Introdução.md](https://github.com/lucasvalgoi/repo/blob/main/1..Introdução.md);
+   - Introdução à programação | [1. Introdução.md](1.%20Introdução.md);
    - Características da linguagem __JavaScript__ | [2. Características do JavaScript.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252908/2.Caracteristicas.do.JavaScript.pdf);
    - Funções | [3. Funções.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252911/3.Funcoes.pdf);
    - Arrays | [4. Arrays.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15252920/4.Arrays.pdf);
