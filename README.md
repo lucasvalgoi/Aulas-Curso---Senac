@@ -21,7 +21,7 @@
 - Como forma de avaliação, foi aplicado aos alunos do curso, 2 trabalhos práticos, onde era apresentado um contexto, com vários problemas que precisavam ser solucionados.
 - ### No primeiro trabalho | [Trabalho 1.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15183158/Trabalho.1.pdf)
    - Foi criado um "gerenciador" de estoque de livros para se usar no termina;
-   - Nele, foi preciso pôr em prática o que foi ensinado em aula sobre __*Funções*__, __*Arrays*__ e __*Obejtos*__.
+   - Nele, foi preciso pôr em prática o que foi ensinado em aula sobre __*Funções*__, __*Arrays*__ e __*Objetos*__.
 
 - ### No Segundo trabalho | [Trabalho 2.pdf](https://github.com/lucasvalgoi/Aulas-Curso---Senac/files/15183150/Trabalho.2.pdf)
    - Neste trabalho, foi criado um projeto semelhante ao primeiro, um "gerenciador" de estoque de livros, mas, com _Interatividade_ atráves do terminal com o `prompt-sync`;
