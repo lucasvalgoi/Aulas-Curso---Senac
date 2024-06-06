@@ -27,3 +27,7 @@
    - Neste trabalho, foi criado um projeto semelhante ao primeiro, um "gerenciador" de estoque de livros, mas, com _Interatividade_ atráves do terminal com o `prompt-sync`;
    - E, ao invés de termos que salvar os dados na memória, foi utilizado a biblioteca `fs` nativa do NodeJS para alterarmos um arquivo JSON onde armazenamos os nossos livros;
    - Foi usado funcionalidades básicas do __CRUD__ com duas "entidades", que eram os *livros* e *categorias*.
+
+  # ❗ Instruções sobre o Segundo Trabalho:
+- Como já mencionado, no trabalho 2 foi usado uma lib, o `prompt-sync`, então, certifique-se de que antes você tenha o NPM rodando na sua máquina!
+- Para mais informações sobre como rodar o NPM, acesse o PDF da aula **9**.
